@@ -1,4 +1,4 @@
-# Online-Ticketing-System
+# Online Ticketing System
 An online event ticketing platform built with Node.js and MongoDB, designed to streamline event management and ticket sales. The system enables event organizers to create and manage events, while users can browse, book, and securely purchase tickets.
 
 Key features:
